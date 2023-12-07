@@ -1,0 +1,16 @@
+
+.not_selected{
+  
+  color: gray;
+}
+
+.option_selected{
+  
+  color: green;
+}
+
+.setBackground{
+  background-image: url("https://www.thehosteller.com/_next/image?url=https%3A%2F%2Fstatic.thehosteller.com%2Fhostel%2Fimages%2FCover%20(1).jpg%2FCover%20(1)-1690261803767.jpg&w=3840&q=75");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
