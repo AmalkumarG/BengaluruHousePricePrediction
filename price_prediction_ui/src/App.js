@@ -167,7 +167,7 @@ function App() {
   </tbody>
 </table>
     
-    <p class="card-text">Predicted value is <h5 className="text-success">$ {predicted}</h5></p>
+    <p class="card-text">Predicted value is <h5 className="text-success">{predicted *100000}</h5></p>
     <a  class="btn btn-info" onClick={()=>setPredicted()}>back</a>
   </div>
 </div>
